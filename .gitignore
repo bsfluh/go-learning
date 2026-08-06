@@ -1,1 +1,10 @@
 .claude
+*.exe
+*.dll
+/bin/
+*.out
+.vscode/
+.idea/
+.claude/
+.DS_Store
+.env

@@ -1,4 +1,4 @@
-module WordCount
+module github.com/bsfluh/go-learning
 
 go 1.26.1
 
